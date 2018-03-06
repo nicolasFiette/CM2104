@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  text-align: center;
+}
+
+table th {
+  padding:7px;
+}
+
+table td {
+  padding: 3px;
+}
+
+.highlight {
+  background-color: yellow;
+}
